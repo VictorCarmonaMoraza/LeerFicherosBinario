@@ -1,0 +1,16 @@
+C:\Users\Victo\Desktop\Proyectos 2022\LeerFicherosBinario_Net_Core\LeerArchivoBinario_Net_Core\LeerArchivoBinario_Net_Core\bin\Debug\net5.0\LeerArchivoBinario_Net_Core.exe
+C:\Users\Victo\Desktop\Proyectos 2022\LeerFicherosBinario_Net_Core\LeerArchivoBinario_Net_Core\LeerArchivoBinario_Net_Core\bin\Debug\net5.0\LeerArchivoBinario_Net_Core.deps.json
+C:\Users\Victo\Desktop\Proyectos 2022\LeerFicherosBinario_Net_Core\LeerArchivoBinario_Net_Core\LeerArchivoBinario_Net_Core\bin\Debug\net5.0\LeerArchivoBinario_Net_Core.runtimeconfig.json
+C:\Users\Victo\Desktop\Proyectos 2022\LeerFicherosBinario_Net_Core\LeerArchivoBinario_Net_Core\LeerArchivoBinario_Net_Core\bin\Debug\net5.0\LeerArchivoBinario_Net_Core.runtimeconfig.dev.json
+C:\Users\Victo\Desktop\Proyectos 2022\LeerFicherosBinario_Net_Core\LeerArchivoBinario_Net_Core\LeerArchivoBinario_Net_Core\bin\Debug\net5.0\LeerArchivoBinario_Net_Core.dll
+C:\Users\Victo\Desktop\Proyectos 2022\LeerFicherosBinario_Net_Core\LeerArchivoBinario_Net_Core\LeerArchivoBinario_Net_Core\bin\Debug\net5.0\ref\LeerArchivoBinario_Net_Core.dll
+C:\Users\Victo\Desktop\Proyectos 2022\LeerFicherosBinario_Net_Core\LeerArchivoBinario_Net_Core\LeerArchivoBinario_Net_Core\bin\Debug\net5.0\LeerArchivoBinario_Net_Core.pdb
+C:\Users\Victo\Desktop\Proyectos 2022\LeerFicherosBinario_Net_Core\LeerArchivoBinario_Net_Core\LeerArchivoBinario_Net_Core\obj\Debug\net5.0\LeerArchivoBinario_Net_Core.csproj.AssemblyReference.cache
+C:\Users\Victo\Desktop\Proyectos 2022\LeerFicherosBinario_Net_Core\LeerArchivoBinario_Net_Core\LeerArchivoBinario_Net_Core\obj\Debug\net5.0\LeerArchivoBinario_Net_Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Desktop\Proyectos 2022\LeerFicherosBinario_Net_Core\LeerArchivoBinario_Net_Core\LeerArchivoBinario_Net_Core\obj\Debug\net5.0\LeerArchivoBinario_Net_Core.AssemblyInfoInputs.cache
+C:\Users\Victo\Desktop\Proyectos 2022\LeerFicherosBinario_Net_Core\LeerArchivoBinario_Net_Core\LeerArchivoBinario_Net_Core\obj\Debug\net5.0\LeerArchivoBinario_Net_Core.AssemblyInfo.cs
+C:\Users\Victo\Desktop\Proyectos 2022\LeerFicherosBinario_Net_Core\LeerArchivoBinario_Net_Core\LeerArchivoBinario_Net_Core\obj\Debug\net5.0\LeerArchivoBinario_Net_Core.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\Proyectos 2022\LeerFicherosBinario_Net_Core\LeerArchivoBinario_Net_Core\LeerArchivoBinario_Net_Core\obj\Debug\net5.0\LeerArchivoBinario_Net_Core.dll
+C:\Users\Victo\Desktop\Proyectos 2022\LeerFicherosBinario_Net_Core\LeerArchivoBinario_Net_Core\LeerArchivoBinario_Net_Core\obj\Debug\net5.0\ref\LeerArchivoBinario_Net_Core.dll
+C:\Users\Victo\Desktop\Proyectos 2022\LeerFicherosBinario_Net_Core\LeerArchivoBinario_Net_Core\LeerArchivoBinario_Net_Core\obj\Debug\net5.0\LeerArchivoBinario_Net_Core.pdb
+C:\Users\Victo\Desktop\Proyectos 2022\LeerFicherosBinario_Net_Core\LeerArchivoBinario_Net_Core\LeerArchivoBinario_Net_Core\obj\Debug\net5.0\LeerArchivoBinario_Net_Core.genruntimeconfig.cache
